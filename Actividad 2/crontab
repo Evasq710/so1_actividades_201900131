@@ -1,0 +1,1 @@
+*/5 * * * * "/home/abrava/Escritorio/USAC Ubuntu/SOPES 1 2024/Tareas Magistral/Actividad 2.sh"  >/dev/null 2>&1
